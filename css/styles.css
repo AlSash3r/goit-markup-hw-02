@@ -86,7 +86,6 @@ a {
     text-align: center;
     color: #fff;
 }
-
 .teams-title-description {
     background-color: #f4f4fd;
     text-align: center;
@@ -97,7 +96,6 @@ a {
     color: #2e2f42;
     text-transform: capitalize;
 }
-
 .footer-text {
     font-weight: 400;
     font-size: 16px;
@@ -110,104 +108,19 @@ a {
     margin-bottom: 24px;
     background-color: #fff;
 }
-
 .team-description {
-    background-color: #f4f4fd;
+    background-color: #F4F4FD;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
     letter-spacing: 0.02em;
 }
-
 .text-image {
-    background-color: #f4f4fd;
+    background-color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
     font-weight: 400;
-    letter-spacing: 0.02em;
-}
-
-.features-section {
-    background-color: #f4f4fd;
-}
-
-.features-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.feature-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-}
-
-.feature-text {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
-    letter-spacing: 0.02em;
-}
-
-.team-section {
-    background-color: #f4f4fd;
-}
-
-.team-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.team-member {
-    background-color: #fff;
-}
-
-.team-member-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-}
-
-.team-member-text {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
-    letter-spacing: 0.02em;
-}
-
-.portfolio-section {
-    background-color: #f4f4fd;
-}
-
-.portfolio-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.portfolio-item {
-    background-color: #fff;
-}
-
-.portfolio-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-}
-
-.portfolio-text {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #434455;
     letter-spacing: 0.02em;
 }
