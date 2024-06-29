@@ -12,7 +12,6 @@ ol {
 a {
     text-decoration: none;
 }
-
 .logo {
     font-weight: 700;
     font-size: 18px;
@@ -26,7 +25,6 @@ a {
 .header-logo .logo-part {
     color: #2e2f42;
 }
-
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -34,14 +32,12 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
 }
-
 .contacts {
     font-style: normal;
 }
@@ -52,19 +48,15 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
 .footer-logo .logo-part {
     color: #f4f4fd;
 }
-
 .page-footer {
     background-color: #2e2f42;
 }
-
 .first-section {
     background-color: #2e2f42;
 }
-
 .first-button {
     background-color: #4d5ae5;
     color: #fff;
@@ -79,8 +71,7 @@ a {
 .first-button:focus {
     background-color: #404bbf;
 }
-
-.main-h {
+.main-title-h1 {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -89,6 +80,7 @@ a {
 }
 
 .main-h2 {
+    background-color: #F4F4FD;
     text-align: center;
     font-weight: 700;
     font-size: 36px;
@@ -97,7 +89,6 @@ a {
     color: #2e2f42;
     text-transform: capitalize;
 }
-
 .footer-text {
     font-weight: 400;
     font-size: 16px;
@@ -105,17 +96,13 @@ a {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-
 .image-section {
-    padding: 0px 0px 32px 0px;
-    width: 100%;
-    height: 100%;
+    padding: 0;
     margin-bottom: 24px;
     background-color: #fff;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-    border-radius: 0 0 4px 4px;
+    border-radius: 4px;
 }
-
 .main-h3 {
     font-weight: 500;
     font-size: 20px;
