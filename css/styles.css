@@ -115,7 +115,8 @@ a {
     border-radius: 4px;
 }
 
-.main-team-description {
+.team-description {
+    background-color: #F4F4FD;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
