@@ -80,7 +80,7 @@ a {
     background-color: #404bbf;
 }
 
-.main-title-h1 {
+.new-title {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -88,8 +88,8 @@ a {
     color: #fff;
 }
 
-.main-title-description {
-    background-color: #f4f4fd;
+.teams-title-description {
+    background-color: #F4F4FD;
     text-align: center;
     font-weight: 700;
     font-size: 36px;
