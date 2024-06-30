@@ -87,7 +87,7 @@ a {
     color: #fff;
 }
 
-.teams-title-description {
+.section-title {
     background-color: #f4f4fd;
     text-align: center;
     font-weight: 700;
@@ -110,14 +110,14 @@ a {
     margin-bottom: 24px;
     background-color: #fff;
 }
-
-.features-section, .portfolio-section  {
+.features-section,
+.portfolio-section {
     background-color: #fff;
 }
+
 .team-section {
     background-color: #f4f4fd;
 }
-
 .team-description {
     font-weight: 500;
     font-size: 20px;
@@ -125,6 +125,7 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .text-image {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -132,10 +133,4 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
-}
-.features-list {
-}
-.features-text {
-
 }
