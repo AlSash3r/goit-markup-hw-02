@@ -111,9 +111,10 @@ a {
     background-color: #fff;
 }
 
-.features-section,
-.team-section,
-.portfolio-section {
+.features-section, .portfolio-section  {
+    background-color: #fff;
+}
+.team-section {
     background-color: #f4f4fd;
 }
 
